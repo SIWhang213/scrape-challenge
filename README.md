@@ -15,5 +15,5 @@
 * Analyze your dataset by using Pandas functions to answer the desired questions. 
 
 ### Attached folder and files :
-* Two jyputer notebook files(part_1_mars_news.ipynb, part_2_mars_weather.ipynb) and the resulting csv file (mars_data.csv) 
+* Two jyputer notebook files(part_1_mars_news.ipynb, part_2_mars_weather.ipynb), the resulting json file (mars_news.json) from part 1, and the resulting csv file from part 2 (mars_data.csv). 
 * One REDME file
